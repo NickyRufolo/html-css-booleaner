@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+    width: 100%; height: 80px;
+    border-style: solid;
+    border-color: #10C3EF;
+    background-color: #10C3EF;
+    background-image:url(../img/pattern.png);
+    background-size: 20%;
+}
+.topleft {
+    position: absolute;
+    top: 13px;
+    left: 182px;
+    font-size: 17px;
+    font-family: 'Mukta', sans-serif;
+    color: whitesmoke
+}
+
+.topleftBooleaner {
+    position: absolute;
+    top: 19px;
+    left: 153px;
+    font-size: 40px;
+    font-family: 'Mukta', sans-serif;
+    color: whitesmoke
+}
+
+  .Internet {
+    font-family: 'Bevan';
+  }
+
+main {
+    width: 80%;
+    margin: auto;
+  }
+
+  :left
+
+
+
+
+  
+  
