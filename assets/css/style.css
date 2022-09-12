@@ -30,19 +30,39 @@ header{
     color: whitesmoke
 }
 
+h3 {
+    color: grey;
+}
+.didascalia {
+    width: 90%;
+}
+
+
+
   .Internet {
     font-family: 'Bevan';
   }
+
 
 main {
     width: 80%;
     margin: auto;
   }
 
-  :left
+table {
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    border-spacing: 0;
+    
+}
 
 
 
 
-  
+
+  footer {
+    width: 80%;
+    margin: auto;
+  }
   
